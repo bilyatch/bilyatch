@@ -1,7 +1,8 @@
 <h2 align="left">Hi 👋! My name is Samir Shrestha and I'm a Network enthusiast, from Nepal.</h2>
 
 ###
-
+![](https://github.com/bilyatch/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/bilyatch/github-stats/blob/master/generated/languages.svg)
 
 ###
 
