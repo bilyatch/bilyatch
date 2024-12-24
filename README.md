@@ -1,9 +1,10 @@
 <h2 align="left">Hi 👋! My name is Samir Shrestha and I'm a Network enthusiast, from Nepal.</h2>
 
 ###
+<div>
 <img alt="my stats" align="left"  src="https://github-readme-stats.vercel.app/api?username=bilyatch"/>
 <img alt="top langs" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilyatch&layout=compact"/>
-
+</div>
 
 ###
 
