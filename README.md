@@ -2,8 +2,8 @@
 
 ###
 <div>
-<img alt="my stats" align="left"  src="https://github-readme-stats.vercel.app/api?username=bilyatch"/>
-<img alt="top langs" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilyatch&layout=compact"/>
+<img alt="my stats"   src="https://github-readme-stats.vercel.app/api?username=bilyatch"/>
+<img alt="top langs"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilyatch&layout=compact"/>
 </div>
 
 ###
