@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋! My name is Samir Shrestha and I'm a Network enthusiast, from Nepal.</h2>
 
 ###
-<img alt="my stats" align="left" width="47" src="https://github-readme-stats.vercel.app/api?username=bilyatch"/>
-<img alt="top langs" align="left" width="49" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilyatch&layout=compact"/>
+<img alt="my stats" align="left"  src="https://github-readme-stats.vercel.app/api?username=bilyatch"/>
+<img alt="top langs" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilyatch&layout=compact"/>
 
 
 ###
