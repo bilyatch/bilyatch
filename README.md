@@ -30,6 +30,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/bilyatch/output/snake.svg" alt="Snake animation" />
+[<img src="https://raw.githubusercontent.com/bilyatch/output/snake.svg" alt="Snake animation" />](https://github.com/bilyatch/snk/blob/main/svg-only/action.yml)
 
 ###
